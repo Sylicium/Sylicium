@@ -1,4 +1,4 @@
-Salut, moi c'est @Sylicium (Syli~ pour les intimes)
+Salut, moi c'est @Sylicium (Sylie~ pour les intimes)
 Je suis développeur amateur depuis 5ans maintenant en;
 Node JS, Python, HTML/CSS, brainfuck.
 Mon discord: heh beh nan
