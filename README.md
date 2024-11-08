@@ -8,7 +8,7 @@ Mon discord: heh beh nan
 [![Gist Card](https://github-readme-stats.vercel.app/api?username=sylicium&show_icons=true)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
 [![Gist Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sylicium&layout=compact)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/wakatime?username=sylicium)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+[![wakatime](https://wakatime.com/badge/user/018ecf52-8546-4a69-8cbb-0614a3b95bb9/project/372fda51-ea41-44d8-9b12-55e93fc30d74.svg)](https://wakatime.com/badge/user/018ecf52-8546-4a69-8cbb-0614a3b95bb9/project/372fda51-ea41-44d8-9b12-55e93fc30d74)
 
 [![wakatime](https://wakatime.com/share/@018ecf52-8546-4a69-8cbb-0614a3b95bb9/07d6e5dd-781b-4376-8474-e6e78bd3732b.svg)](https://wakatime.com/share/@018ecf52-8546-4a69-8cbb-0614a3b95bb9/07d6e5dd-781b-4376-8474-e6e78bd3732b.svg)
 
